@@ -1,0 +1,3 @@
+[submodule "libraries/tcan4551-library"]
+    path = libraries/tcan4551-library
+    url = https://github.com/yourusername/tcan4551-library.git
