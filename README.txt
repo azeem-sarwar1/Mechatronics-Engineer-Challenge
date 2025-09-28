@@ -25,6 +25,8 @@ This repository contains the PCB design created as part of the evaluation task u
 
 4. **Bonus**
    - Library for **TCAN4551-Q1** also stored in a separate repository, which can be mounted as a submodule.
+    This project uses the TCAN4551 library. Download it separately from
+
 
 
 
